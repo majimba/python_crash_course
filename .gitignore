@@ -30,3 +30,9 @@ media/
 dist/
 build/
 *.egg-info/
+
+# Book reference materials
+resources/book_reference/
+*.pdf
+*.epub
+*.mobi
