@@ -1,0 +1,8 @@
+# Core dependencies
+pytest>=7.0.0  # For testing code
+pygame>=2.5.0  # For game development
+matplotlib>=3.7.0  # For data visualization
+plotly>=5.13.0  # For interactive visualizations
+django>=4.2.0  # For web development
+
+# Note: Specific project requirements will be added as we progress through the book
