@@ -1,3 +1,8 @@
+# Program: Full Name Formatting
+# Author: Chawana Maseka
+# Date: February 18, 2025
+# Description: Demonstrates string concatenation and f-string formatting
+
 # Using f-strings (formatted string literals)
 # f-strings were introduced in Python 3.6 and are the preferred way to format strings
 # They allow you to insert variables directly into string literals

@@ -1,3 +1,8 @@
+# Program: Favorite Number
+# Author: Chawana Maseka
+# Date: February 18, 2025
+# Description: Demonstrates the use of variables and f-strings to display a favorite number
+
 # This program demonstrates the use of variables and f-strings in Python
 
 # Store favorite number in a variable

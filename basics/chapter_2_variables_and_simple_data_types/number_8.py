@@ -1,3 +1,8 @@
+# Program: Number 8 - Arithmetic Operations Demo
+# Author: Chawana Maseka
+# Date: February 18, 2025
+# Description: Demonstrates different arithmetic operations that result in the number 8
+
 # This program demonstrates basic arithmetic operations in Python
 # Each operation will output the number 8 in different ways
 

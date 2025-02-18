@@ -1,3 +1,8 @@
+# Program: Personal Message
+# Author: Chawana Maseka
+# Date: February 18, 2025
+# Description: Creates and displays a personalized message using string variables
+
 # Creating personalized messages with f-strings
 # This example combines:
 # 1. Variable assignment

@@ -1,3 +1,8 @@
+# Program: Famous Quotes 2
+# Author: Chawana Maseka
+# Date: February 18, 2025
+# Description: Displays a famous quote using variables for author and quote
+
 # Working with Quotes and String Formatting
 # This example demonstrates:
 # 1. Storing strings in variables

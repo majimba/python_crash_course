@@ -1,3 +1,8 @@
+# Program: Apostrophe Usage
+# Author: Chawana Maseka
+# Date: February 18, 2025
+# Description: Demonstrates proper use of apostrophes in string literals
+
 # Using quotes in strings
 # When a string contains an apostrophe, use double quotes to enclose the string
 # This avoids syntax errors that would occur with single quotes

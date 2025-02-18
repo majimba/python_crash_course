@@ -1,3 +1,8 @@
+# Program: Name Cases
+# Author: Chawana Maseka
+# Date: February 18, 2025
+# Description: Shows different string case methods (lower, upper, title)
+
 # String Case Methods Exercise
 # This program demonstrates the three main case methods in Python:
 # - lower(): converts string to all lowercase

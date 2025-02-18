@@ -1,3 +1,8 @@
+# Program: Stripping Names
+# Author: Chawana Maseka
+# Date: February 18, 2025
+# Description: Demonstrates various string stripping methods in Python
+
 # Demonstrating String Stripping Methods
 # This program shows how to remove whitespace from strings using Python's strip methods
 

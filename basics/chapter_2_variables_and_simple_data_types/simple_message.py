@@ -1,3 +1,8 @@
+# Program: Simple Message
+# Author: Chawana Maseka
+# Date: February 18, 2025
+# Description: Demonstrates basic variable assignment and string printing
+
 # Variables in Python
 # This example shows how to:
 # 1. Create a variable

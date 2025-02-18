@@ -1,4 +1,8 @@
-# A simple Hello World program
+# Program: Hello World
+# Author: Chawana Maseka
+# Date: February 18, 2025
+# Description: A simple Hello World program to verify Python installation
+
 # This is a traditional first program for learning any programming language
 
 """

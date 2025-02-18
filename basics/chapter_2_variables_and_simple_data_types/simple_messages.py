@@ -1,3 +1,8 @@
+# Program: Simple Messages
+# Author: Chawana Maseka
+# Date: February 18, 2025
+# Description: Shows how to modify variable values and print multiple messages
+
 # Demonstrating variable reassignment
 # Variables in Python can be reassigned to new values at any time
 # This is why they're called variables - their values can vary

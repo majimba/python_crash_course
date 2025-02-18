@@ -1,3 +1,8 @@
+# Program: Chapter 1 Notes
+# Author: Chawana Maseka
+# Date: February 18, 2025
+# Description: Contains notes and examples from Chapter 1 of Python Crash Course
+
 # Chapter 1: Getting Started with Python
 # This file demonstrates basic Python concepts and syntax
 
